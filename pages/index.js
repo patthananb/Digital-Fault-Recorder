@@ -1,6 +1,7 @@
 import styles from "@/styles/Home.module.css"
 import * as React from "react";
 
+
 // 1. import `NextUIProvider` component
 import {NextUIProvider} from "@nextui-org/react";
 
